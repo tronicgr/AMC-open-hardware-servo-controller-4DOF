@@ -33,6 +33,10 @@ https://www.ebay.com/itm/5Pcs-D-SUB-25-Round-Pin-2-Row-Straight-Female-Through-H
 ```
 
 
+![Alt Text](https://github.com/tronicgr/AMC-open-hardware-servo-controller-4DOF/blob/master/AMC-Open-Hardware-4DOF_and_AMC-AASD15A.jpg)
+The AMC-Open-Hardware-4DOF next to the fully loaded AMC-AASD15A servo controller
+
+
 
 ### ======= FIRMWARE 4DOF - 80mm stroke - AASD-15A servos =======
 ```
