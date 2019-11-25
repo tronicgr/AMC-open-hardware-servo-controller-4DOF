@@ -26,7 +26,7 @@ BTN2-BTN3  6x6x7mm Momentary Push Button Switch Tact Through-Hole
 https://www.ebay.com/itm/SI-10-Pcs-6x6x7mm-4-Pins-DIP-PCB-Momentary-Tactile-Tact-Push-Button-Switch/122630868699
 
 Dsub1-Dsub4  D-SUB 25 Female - D-SUB 25 Round Pin Straight Female Through Hole Connector Adapter 2 Row
-https://www.ebay.com/itm/100Pcs-D-SUB-25-Round-Pin-Straight-Female-Through-Hole-Connector-Adapter-2-Row/182178925859
+https://www.ebay.com/itm/5Pcs-D-SUB-25-Round-Pin-2-Row-Straight-Female-Through-Hole-Connector-Adapter/172251129183
 
 64 pin headers male 2.54mm
 
