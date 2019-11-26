@@ -1,10 +1,12 @@
 # AMC-open-hardware-servo-controller-4DOF
 For use with 4DOF rigs with 100mm stroke actuators
 
-The purpose of this is to make available the design files for this 4DOF servo controller for DIY construction from scratch. You will need to supply your own Arduino Mega 2560 and load on it the supplied firmware here. You can use this controller to connect your 4DOF rig on Simtools or FlyPT using the usual AMC or Thanos interface plugins.
+The purpose of this is to make available the design files for this 4DOF servo controller for DIY construction from scratch. You will need to supply your own Arduino Mega 2560 and load on it the supplied firmware here. You can use this controller to connect your 4DOF rig on Simtools or FlyPT Mover using the usual AMC or Thanos interface plugins.
+Link to the free FlyPT mover motion software:
+https://www.xsimulator.net/community/threads/flypt-mover-interface.13464/
 
-This project requires some soldering so be prepared.
 
+Warning: This project requires some soldering so be prepared.
 
 
 You can order the PCB made on OshPark:
@@ -58,4 +60,7 @@ List of limitations and features:
   -Same datapackets as AMC device in Simtools and FlyPT
         
 ```
+
+
+
 
