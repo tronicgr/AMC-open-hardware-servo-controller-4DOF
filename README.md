@@ -49,7 +49,7 @@ List of limitations and features:
   -motion range:  80mm stroke
   -speed: 250mm/s
   -Pulse frequency: 45khz  
-  -Controller loop frequency: 800ms
+  -Controller loop frequency: 800 times/sec
   -Automatic Park-Standby
   -E-stop disables Servos
   -Same datapackets as AMC device in Simtools and FlyPT
