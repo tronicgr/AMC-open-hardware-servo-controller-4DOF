@@ -28,6 +28,9 @@ https://www.ebay.com/itm/SI-10-Pcs-6x6x7mm-4-Pins-DIP-PCB-Momentary-Tactile-Tact
 Dsub1-Dsub4  D-SUB 25 Female - D-SUB 25 Round Pin Straight Female Through Hole Connector Adapter 2 Row
 https://www.ebay.com/itm/5Pcs-D-SUB-25-Round-Pin-2-Row-Straight-Female-Through-Hole-Connector-Adapter/172251129183
 
+2-pin 3.5mm Screw Terminal - 3.5mm Pitch 2 pin 2 way Straight Pin PCB Screw Terminal Blocks Connector
+https://www.ebay.com/itm/181846953484
+
 64 pin headers male 2.54mm
 
 ```
