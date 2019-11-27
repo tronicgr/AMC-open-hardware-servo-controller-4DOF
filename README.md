@@ -43,6 +43,10 @@ https://www.ebay.com/itm/181846953484
 The AMC-Open-Hardware-4DOF next to the fully loaded AMC-AASD15A servo controller
 
 
+![Alt Text](https://github.com/tronicgr/AMC-open-hardware-servo-controller-4DOF/blob/master/shield_top_side.jpg)
+
+![Alt Text](https://github.com/tronicgr/AMC-open-hardware-servo-controller-4DOF/blob/master/shield_bottom_side.jpg)
+
 
 
 
