@@ -61,6 +61,11 @@ List of limitations and features:
         
 ```
 
+Video tutorial of loading the firmware on the Arduino Mega 2560:
+
+https://www.youtube.com/watch?v=zZX-h4tYw1E
+
+
 
 
 
