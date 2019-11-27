@@ -61,11 +61,30 @@ List of limitations and features:
         
 ```
 
-Video tutorial of loading the firmware on the Arduino Mega 2560:
+### Video tutorial of loading the firmware on the Arduino Mega 2560:
 
 https://www.youtube.com/watch?v=zZX-h4tYw1E
 
 
+### AC Servo Settings
+```
+Push MOD until you see Pn000. This enters the parameter mode.
+Change and check these settings on all motors:
 
+Pn8 = 300
+Pn9 = -300
+Pn51 = 3000
+Pn98 = 20 - Pulse Multiplier (electronics gear)
+Pn109 = 1 - smoothing, 1=fixed smoothing, 2=s-Shaped smoothing
+Pn110 = 30 - Smoothing Filter Time
+Pn113 = 20 - Feedforward %
+Pn114 = 10 - Feedforward Filter Time (ms)
+Pn115 = 100 - Gain %
+---Extra parameters needed---
+Pn24 = 100 
+Pn52 = 1 
+Pn60 = 2 
+Pn61 = 6 
+```
 
 
