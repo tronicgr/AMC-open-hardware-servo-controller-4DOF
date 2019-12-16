@@ -49,6 +49,11 @@ The AMC-Open-Hardware-4DOF next to the fully loaded AMC-AASD15A servo controller
 
 
 
+### Reminder: Cut the RESET_EN trace after loading the firmware.
+
+![Alt Text](https://github.com/tronicgr/AMC-open-hardware-servo-controller-4DOF/blob/master/Arduino_Reset_EN_cut_trace.jpg)
+
+
 
 ### ======= FIRMWARE 4DOF - 80mm stroke - AASD-15A servos =======
 ```
