@@ -59,7 +59,7 @@ The AMC-Open-Hardware-4DOF next to the fully loaded AMC-AASD15A servo controller
 
 
 
-### ======= FIRMWARE 4DOF - 80mm stroke - AASD-15A servos =======
+### ======= FIRMWARE 4DOF - 100mm stroke - AASD-15A servos =======
 ```
 release date: 11/25/2019
 
@@ -71,6 +71,7 @@ List of limitations and features:
   -Automatic Park-Standby
   -E-stop disables Servos
   -Same datapackets as AMC device in Simtools and FlyPT, just 4 axis usable.
+  -Automatic home calibration of the actuators.
         
 ```
 
