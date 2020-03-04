@@ -78,6 +78,12 @@ List of limitations and features:
 
 https://www.youtube.com/watch?v=zZX-h4tYw1E
 
+### Other Video regarding testing and Simtools connection:
+
+Manual testing with servomotors: https://www.youtube.com/watch?v=ZpkSNeMeobE
+
+Test on Simtools manual slider: https://www.youtube.com/watch?v=LB0JdBqnM4k
+
 
 ### AC Servo Settings
 ```
