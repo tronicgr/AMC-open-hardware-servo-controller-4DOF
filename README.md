@@ -22,22 +22,6 @@ https://oshpark.com/shared_projects/qweSHDEY
 ![Alt Text](https://github.com/tronicgr/AMC-open-hardware-servo-controller-4DOF/blob/master/Gerber-files/BOTTOM-view.jpg)
 
 
-### List of materials:
-```
-C1-C9  0.1uF - CAP,SM,SER,X7R,0.1uF,10%,50V,(0805)
-R1-R10  2.2k - RES,SM,THK FLM,2.2k,1%,0.1W,(0805)
-LD1-LD2  LTST-C193TBKT-5A - DIODE,LED,Blue,470nm,2.8V,0603
-
-BTN2-BTN3  6x6x7mm Momentary Push Button Switch Tact Through-Hole
-https://www.ebay.com/itm/SI-10-Pcs-6x6x7mm-4-Pins-DIP-PCB-Momentary-Tactile-Tact-Push-Button-Switch/122630868699
-
-Dsub1-Dsub4  D-SUB 25 Female - D-SUB 25 Round Pin Straight Female Through Hole Connector Adapter 2 Row
-https://www.ebay.com/itm/5Pcs-D-SUB-25-Round-Pin-2-Row-Straight-Female-Through-Hole-Connector-Adapter/172251129183
-
-2-pin 3.5mm Screw Terminal - 3.5mm Pitch 2 pin 2 way Straight Pin PCB Screw Terminal Blocks Connector
-https://www.ebay.com/itm/181846953484
-
-64 pin headers male 2.54mm
 
 ```
 
