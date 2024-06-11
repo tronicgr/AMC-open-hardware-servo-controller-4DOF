@@ -1,6 +1,7 @@
 # AMC-open-hardware-servo-controller-4DOF
 For use with 4DOF rigs with 100mm stroke actuators
 
+### RETIRED, Sorry 🤷‍♂️
 
 ### Warning, its not compatible with Simfeedback software, the programmer was kind enough to not allow ANY other servo controller except the arduino leonardo. 
 
